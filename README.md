@@ -25,13 +25,13 @@ Meu nome é Maria Clara, e eu estou cursando Desenvolvimento de Sistemas na Etec
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> | Para Web Desenvolvimento  <br> <br>
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> | Para Desenvolvimento de Aplicações e Jogos <br> <br>
 <img align="center" alt="CCS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> | Para Estilização e Design de Sites
-<br>
+<br> <br>
 
 ### Minha Qualificação Profissional
 
 <strong> Auxiliar em Desenvolvimento de Sistemas </strong>
 
-Habilidades:
+<strong> Habilidades: </strong>
 
 - Modelar banco de dados.
 
