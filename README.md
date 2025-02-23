@@ -5,9 +5,9 @@
 
 ## Estatisticas
 
-![Gauwks GitHub stats](https://github-readme-stats.vercel.app/api?username=gauwks&show_icons=true&theme=tokyonight)
+![Gauwks GitHub stats](https://github-readme-stats.vercel.app/api?username=gauwks&show_icons=true&theme=tokyonight&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauwks&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauwks&layout=compact&theme=tokyonight&custom_title=Linguagens)
 ### Skills
 
 <div style="inline_block"><br>
