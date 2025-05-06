@@ -3,8 +3,6 @@
 
 Meu nome é Maria Clara, e eu estou cursando Desenvolvimento de Sistemas na Etec Peruíbe, atualmente estou no 2° Ano e pretendo seguir carreira na área, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com](https://www.instagram.com/lemoonn.starsz/))
-
 ## Estatisticas
 
 ![Gauwks GitHub stats](https://github-readme-stats.vercel.app/api?username=gauwks&show_icons=true&theme=tokyonight&locale=pt-br)
