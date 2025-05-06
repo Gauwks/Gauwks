@@ -31,17 +31,17 @@ Meu nome é Maria Clara, e eu estou cursando Desenvolvimento de Sistemas na Etec
 
 <strong> Habilidades: </strong>
 
-- Modelar banco de dados.
+- Modelar banco de dados;
 
-- Desenvolver sites para Web.
+- Desenvolver sites para Web;
 
-- Operar sistemas computacionais.
+- Operar sistemas computacionais;
 
-- Elaborar projetos de sistema de informação.
+- Elaborar projetos de sistema de informação;
 
-- Desenvolver elementos gráficos para aplicativos e sites.
+- Desenvolver elementos gráficos para aplicativos e sites;
 
-- Realizar versionamento no desenvolvimento de programas.
+- Realizar versionamento no desenvolvimento de programas;
 
 - Utilizar algoritmos em linguagem de programação, por meio de ambientes de desenvolvimento de acordo com as necessidades.
 
