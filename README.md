@@ -10,8 +10,8 @@ Meu nome é Maria Clara, e eu estou cursando Desenvolvimento de Sistemas na Etec
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauwks&layout=compact&theme=tokyonight&custom_title=Tecnologias)
 ### Skills
 
-<div style="inline_block"><br>
-<div style="inline_block"><br>
+<div style="inline_block">
+<div style="inline_block">
 <img align="center" alt="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 <img align="center" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">  
