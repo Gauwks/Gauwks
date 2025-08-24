@@ -17,7 +17,7 @@ Meu nome é Maria Clara, e eu estou cursando Desenvolvimento de Sistemas na Etec
 <img align="center" alt="MySQL" width = "40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 </div> <br>
 
- No momento estou estudando: 
+### No momento estou estudando: 
 
 <img align="center" alt="C#" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"> | Para Desenvolvimento de Aplicações e Jogos <br> <br>
 <img align="center" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"> | Para Desenvolvimento de Interfaces e Aplicações Web Interativas <br> <br>
