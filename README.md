@@ -11,16 +11,18 @@ Meu nome é Maria Clara, e eu estou cursando Desenvolvimento de Sistemas na Etec
 ### Skills
 
 <div style="inline_block"><br>
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <br> 
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="HTML5" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+<img align="center" alt="CSS"  width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+<img align="center" alt="JavaScript" width = "40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">  
+<img align="center" alt="MySQL" width = "40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 </div> <br>
 
  No momento estou estudando: 
 
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> | Para Automação e Machine learning  <br> <br>
-<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> | Para Desenvolvimento de Aplicações e Jogos <br> <br>
+<img align="center" alt="C#" width = "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"> | Para Desenvolvimento de Aplicações e Jogos <br> <br>
+<img align="center" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"> | Para Desenvolvimento de Interfaces e Aplicações Web Interativas <br> <br>
+<img align="center" alt="React Native" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"> | Para Desenvolvimento de Aplicativos Mobile para Android e iOS <br> <br>
+
 <br> <br>
 
 ### Minha Qualificação Profissional
