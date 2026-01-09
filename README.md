@@ -21,8 +21,8 @@ Meu nome é Maria Clara, e eu estou cursando Desenvolvimento de Sistemas na Etec
 ### No momento estou estudando: 
 
 <img align="center" alt="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"> | Para Desenvolvimento de Aplicações e Jogos <br> <br>
-<img align="center" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"> | Para Desenvolvimento de Interfaces e Aplicações Web Interativas <br> <br>
-<img align="center" alt="React Native" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"> | Para Desenvolvimento de Aplicativos Mobile para Android e iOS <br> <br>
+<img align="center" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"> | Para Desenvolvimento de Sites e Aplicações web dinâmicas <br> <br>
+
 
 
 <br> <br>
