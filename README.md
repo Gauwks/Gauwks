@@ -1,7 +1,7 @@
 
 ### Olá, seja bem-vindo(a) ao meu Github! 👋
 
-Meu nome é Maria Clara, e eu estou cursando Desenvolvimento de Sistemas na Etec Peruíbe, atualmente estou no 2° Ano e pretendo seguir carreira na área, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades.
+Meu nome é Maria Clara, e eu estou cursando Desenvolvimento de Sistemas na Etec Peruíbe, atualmente estou no 3° Ano e pretendo seguir carreira na área, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades.
 
 ## Estatisticas
 
