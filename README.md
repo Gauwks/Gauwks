@@ -5,9 +5,9 @@ Meu nome é Maria Clara, e eu estou cursando Desenvolvimento de Sistemas na Etec
 
 ## Estatisticas
 
-![Gauwks GitHub stats](https://github-readme-stats.vercel.app/api?username=gauwks&show_icons=true&theme=tokyonight&locale=pt-br)
+![Gauwks GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=gauwks&show_icons=true&theme=tokyonight&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauwks&layout=compact&theme=tokyonight&custom_title=Tecnologias)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gauwks&layout=compact&theme=tokyonight&custom_title=Tecnologias)
 ### Skills
 
 <div style="inline_block">
